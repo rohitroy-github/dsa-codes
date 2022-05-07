@@ -1,0 +1,19 @@
+Working with Bitwise Operators 
+
+Basic Concepts > 
+1. Get Bit > 
+    To extract the present bit from agiven particular position
+    > AND
+
+2. Set Bit > 
+    To set/ put a particular bit at a given particular position 
+    > OR
+
+3. Clear Bit > 
+    To clear/ set 0 at the given particular position 
+    > 1's compliment + AND
+
+4. Update Bit > 
+    To update a given particular bit to 0 / 1 (accepted from user) 
+    > clearBit + setBit
+
