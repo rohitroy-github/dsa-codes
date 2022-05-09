@@ -39,6 +39,7 @@ void uniqueElement(int arr[], int n)
         }
     }
 
+    cout << "Unique Elements are > " << endl;
     cout << newXor << endl; //unique element 1 
     cout << (tempXor^newXor) << endl; //unique element 2
 }

@@ -39,6 +39,6 @@ int findUniqueNumberFromTriplets(int arr[], int n)
 int main() 
 {
     int arr[] = {1, 2, 3, 4, 1, 2, 3, 1, 2, 3};
-    cout << findUniqueNumberFromTriplets(arr, 10) << endl; 
+    cout << "Unique Element is > " << findUniqueNumberFromTriplets(arr, 10) << endl; 
     return 0; 
 }
